@@ -22,4 +22,5 @@ I write short briefs that turn major events into structured analysis:
 - [AI adoption and labour-market bottlenecks](notes/ai-labour-note.md)
 
 ## Contact
-LinkedIn / Email / Substack (optional)
+Email: yixuanmeng2022@126.com
+Rednote: NAHTIY
